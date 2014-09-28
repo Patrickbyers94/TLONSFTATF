@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<maze3>
+  <boxes>
+    <box>
+      <room />
+      <x>22</x>
+      <y>17</y>
+    </box>
+  </boxes>
+  <goals>
+    <position>
+      <x>21</x>
+      <y>18</y>
+    </position>
+  </goals>
+  <startingPosition>
+    <position>
+      <x>2</x>
+      <y>5</y>
+    </position>
+  </startingPosition>
+  <doors>
+    <door>
+      <destination>overworld</destination>
+      <locked>false</locked>
+      <position>
+        <x>3</x>
+        <y>2</y>
+      </position>
+    </door>
+  </doors>
+  <chest>
+    <x>21</x>
+    <y>17</y>
+    <locked>true</locked>
+    <contents>
+      <key />
+    </contents>
+  </chest>
+</maze3>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shop>
+  <boxes />
+  <goals>
+    <position>
+      <x>7</x>
+      <y>5</y>
+    </position>
+  </goals>
+  <startingPosition>
+    <position>
+      <x>5</x>
+      <y>3</y>
+    </position>
+  </startingPosition>
+  <doors>
+    <door>
+      <destination>overworld</destination>
+      <locked>false</locked>
+      <position>
+        <x>4</x>
+        <y>2</y>
+      </position>
+    </door>
+    <door>
+      <destination>overworld</destination>
+      <locked>false</locked>
+      <position>
+        <x>9</x>
+        <y>2</y>
+      </position>
+    </door>
+  </doors>
+  <trees />
+</shop>

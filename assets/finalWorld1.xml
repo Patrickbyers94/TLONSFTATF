@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<finalWorld1>
+  <boxes />
+  <goals>
+    <position>
+      <x>27</x>
+      <y>39</y>
+    </position>
+  </goals>
+  <startingPosition>
+    <position>
+      <x>3</x>
+      <y>4</y>
+    </position>
+  </startingPosition>
+  <doors>
+    <door>
+      <destination>finalWorld</destination>
+      <locked>false</locked>
+      <position>
+        <x>4</x>
+        <y>3</y>
+      </position>
+    </door>
+    <door>
+      <destination>finalWorld1</destination>
+      <locked>true</locked>
+      <position>
+        <x>39</x>
+        <y>3</y>
+      </position>
+    </door>
+  </doors>
+</finalWorld1>

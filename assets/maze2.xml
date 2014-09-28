@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<maze2>
+  <boxes />
+  <goals>
+    <position>
+      <x>37</x>
+      <y>38</y>
+    </position>
+  </goals>
+  <startingPosition>
+    <position>
+      <x>1</x>
+      <y>3</y>
+    </position>
+  </startingPosition>
+  <doors>
+    <door>
+      <destination>overworld</destination>
+      <locked>false</locked>
+      <position>
+        <x>2</x>
+        <y>2</y>
+      </position>
+    </door>
+  </doors>
+  <chest>
+    <x>38</x>
+    <y>38</y>
+    <locked>true</locked>
+    <contents>
+      <key />
+    </contents>
+  </chest>
+</maze2>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<players>
+  <player>
+    <name>sadf</name>
+    <job>Soldier</job>
+    <room>overworld</room>
+    <position>
+      <x>27</x>
+      <y>19</y>
+    </position>
+    <orientation>3</orientation>
+    <inventory>
+      <potion>
+        <health>20</health>
+      </potion>
+      <torch />
+      <key />
+      <key />
+      <weapon>
+        <name>Sword</name>
+        <attack>10</attack>
+      </weapon>
+    </inventory>
+    <weapon>
+      <name>Sword</name>
+      <attack>10</attack>
+    </weapon>
+    <health>60</health>
+  </player>
+</players>

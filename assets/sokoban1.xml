@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sokoban1>
+  <boxes>
+    <box>
+      <room />
+      <x>15</x>
+      <y>10</y>
+    </box>
+    <box>
+      <room />
+      <x>12</x>
+      <y>13</y>
+    </box>
+    <box>
+      <room />
+      <x>12</x>
+      <y>14</y>
+    </box>
+    <box>
+      <room />
+      <x>14</x>
+      <y>14</y>
+    </box>
+  </boxes>
+  <goals>
+    <position>
+      <x>16</x>
+      <y>10</y>
+    </position>
+    <position>
+      <x>12</x>
+      <y>10</y>
+    </position>
+    <position>
+      <x>14</x>
+      <y>16</y>
+    </position>
+    <position>
+      <x>10</x>
+      <y>14</y>
+    </position>
+  </goals>
+  <startingPosition>
+    <position>
+      <x>6</x>
+      <y>8</y>
+    </position>
+  </startingPosition>
+  <doors>
+    <door>
+      <destination>overworld</destination>
+      <locked>false</locked>
+      <position>
+        <x>5</x>
+        <y>4</y>
+      </position>
+    </door>
+  </doors>
+  <chest>
+    <x>11</x>
+    <y>7</y>
+    <locked>true</locked>
+    <contents>
+      <key />
+    </contents>
+  </chest>
+</sokoban1>
